@@ -19,12 +19,15 @@ Please note that the following steps assume you have installed other Balatro mod
 # FAQ
 
 Q: I found a glitch/issue/crash. What should I do?
+
 A: Please create an issue on the repository. Share as much info as possible, such as what you did right before it broke, what (if any) other mods were installed at the same time, and any error message(s) you see. I'll fix it as soon as possible.
 
 Q: I have a feature idea, suggestion, question, or need help.
+
 A: Please feel free to reach out via email at dylansmithtoe@gmail.com. I'd love to hear :) (Note this is an alt email that forwards to my main)
 
 Q: When's the next version coming out?
+
 A: When I have an idea of a change to make or a bug to fix
 
 Q: Can I reach out/email you?
