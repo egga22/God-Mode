@@ -6,7 +6,7 @@ Please note that the following steps assume you have installed other Balatro mod
 
 1: Head to the "Releases" tab.
 
-2: Download the "Mod.zip" file.
+2: Download the "Source Code (zip)" file.
 
 3: Unzip the download on your computer
 
