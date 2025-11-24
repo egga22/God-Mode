@@ -16,6 +16,13 @@ Please note that the following steps assume you have installed other Balatro mod
 
 5: Run the game!
 
+
+# Steps to spawn item
+1: Click the "Run Info" button.
+2: Go to the "God Mode" tab.
+3: Click "Open Collection".
+4: Navigate through your collection to find the item you want, then click it.
+5: Click "Confirm" or add a modifier.
 # FAQ
 
 Q: I found a glitch/issue/crash. What should I do?
